@@ -1,2 +1,7 @@
 new features
+<<<<<<< HEAD
 new feature 2......。。。
+=======
+mew features 2...
+mew features 3
+>>>>>>> feature
