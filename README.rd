@@ -1,4 +1,4 @@
 first , no master
 This is master
-develop some thing
+develope some thing
 Create a new branch is quick AND simple
