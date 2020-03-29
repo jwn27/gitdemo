@@ -1,2 +1,2 @@
-Sybase:func1.0:DATE=0414 bugfix..
+Oracle:func1.0:DATE=0414
 

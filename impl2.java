@@ -1,2 +1,1 @@
-Sybase:func1.0:DATE=0317
-
+Oracle:func1.0:DATE=0317
